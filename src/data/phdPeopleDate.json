@@ -1,0 +1,30 @@
+[
+    {
+      "imgUrl": "https://lh5.googleusercontent.com/fvq-yiFrGoR-E_B2YB8g2pMuSb1tOU4XfR4r8-rSFpCt-S48b-dx-mMmgKW8K2L7YytOGkEvQgLMf1TqneH5eUo=w16383",
+      "name": "Dr. John Doe",
+      "phdTitle": "Ph.D. in Computer Science",
+      "email": "john.doe@example.com",
+      "other": "Research interests: AI, Machine Learning",
+      "btechEd": "B.Tech. in Computer Engineering, XYZ University",
+      "mtechEd": "M.Tech. in Software Engineering, ABC University"
+    },
+    {
+      "imgUrl": "https://lh5.googleusercontent.com/fvq-yiFrGoR-E_B2YB8g2pMuSb1tOU4XfR4r8-rSFpCt-S48b-dx-mMmgKW8K2L7YytOGkEvQgLMf1TqneH5eUo=w16383",
+      "name": "Dr. Alice Smith",
+      "phdTitle": "Ph.D. in Electrical Engineering",
+      "email": "alice.smith@example.com",
+      "other": "Research interests: Renewable Energy, Smart Grids",
+      "btechEd": "B.Tech. in Electrical Engineering, DEF University",
+      "mtechEd": "M.Tech. in Power Systems, GHI University"
+    },
+    {
+      "imgUrl": "https://lh5.googleusercontent.com/fvq-yiFrGoR-E_B2YB8g2pMuSb1tOU4XfR4r8-rSFpCt-S48b-dx-mMmgKW8K2L7YytOGkEvQgLMf1TqneH5eUo=w16383",
+      "name": "Dr. Sarah Lee",
+      "phdTitle": "Ph.D. in Mechanical Engineering",
+      "email": "sarah.lee@example.com",
+      "other": "Research interests: Robotics, Automation",
+      "btechEd": "B.Tech. in Mechanical Engineering, JKL University",
+      "mtechEd": "M.Tech. in Robotics, MNO University"
+    }
+  ]
+  

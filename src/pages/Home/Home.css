@@ -1,0 +1,6 @@
+.bg-image{
+    background-image: url('../../assets/homeBg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
