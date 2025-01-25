@@ -13,7 +13,7 @@ const Footer = () => {
             </div>
             <div className="details flex flex-col text-lg">
                 <h2 className="mb-2">Phone Number : <span className="font-semibold">+91 1234567890</span></h2>
-                <h2>Email : <span className="font-semibold">ashok@gmail.com</span></h2>
+                <h2>Email : <span className="font-semibold">ashokk@msme.iith.ac.in</span></h2>
             </div>
         </div>
     )
