@@ -77,7 +77,7 @@ const Home = () => {
         </ul>
         </div>
       </div>
-      <div className="w-sm md:w-1/2 mx-auto p-8">
+      <div className="max-w-4xl mx-auto p-8">
         <Slider {...settings}>
           {images.map((img, index) => (
             <div key={index}>
