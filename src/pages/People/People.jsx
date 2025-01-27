@@ -3,11 +3,12 @@ import NavBottomSection from '../../components/navBottomSection'
 import Heading from '../../components/people/Heading'
 import phdPeopleData from "../../data/phdPeopleDate.json"
 import PhdPeopleContent from '../../components/people/phdPeopleContent'
+import navBottom from "../../../src/assets/navbarBottomImages/navbarBottomImage.jpg"
 
 const People = () => {
   return (
     <div>
-      <NavBottomSection title='People' imgUrl='https://lh5.googleusercontent.com/fvq-yiFrGoR-E_B2YB8g2pMuSb1tOU4XfR4r8-rSFpCt-S48b-dx-mMmgKW8K2L7YytOGkEvQgLMf1TqneH5eUo=w16383' />
+      <NavBottomSection title='People' imgUrl={navBottom} />
       <Heading title="PhD Scholars" />
       {
         phdPeopleData.map((item) => {

@@ -30,7 +30,7 @@ const Navbar = () => {
                 <a href="https://www.iith.ac.in/">IITH</a>
             </div>
 
-            <div className="lg:hidden">
+            <div className="lg:hidden flex justify-center items-center">
                 <button
                     onClick={() => setMenu(!menu)}
                     className="focus:outline-none"
@@ -62,7 +62,7 @@ const Navbar = () => {
             </div>
 
             {menu && (
-            <div className="absolute top-[80px] left-0 w-full bg-white shadow-lg">
+                <div className="absolute top-[80px] left-0 w-full bg-white shadow-lg">
                     <div className="flex flex-col items-center gap-4 py-4 text-black">
                         <Link to="/" onClick={() => setMenu(false)}>Home</Link>
                         <Link to="/people" onClick={() => setMenu(false)}>People</Link>
