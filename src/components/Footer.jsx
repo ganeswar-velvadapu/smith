@@ -7,7 +7,7 @@ const Footer = () => {
                 <h1 className='text-3xl font-bold mb-4'>Contact</h1>
                 <h2 className='text-lg font-medium mb-2'>Dr. K. Ashok</h2>
                 <h2 className='text-lg mb-2'>Assitant Professor</h2>
-                <h2 className='text-lg mb-2'>#202, Department of Materials Science and Metallurgy</h2>
+                <h2 className='text-lg mb-2'>#201, Department of Materials Science and Metallurgy</h2>
                 <h2 className='text-lg mb-2'>Indian Institute of Technology, Hyderabad</h2>
                 <h2 className='text-lg mb-2'>Kandi, Sangareddy, 502285, India</h2>
             </div>

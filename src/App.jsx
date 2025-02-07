@@ -9,7 +9,6 @@ import Opportunities from './pages/Opportunities/Opportunities'
 import Projects from './pages/Projects/Projects'
 import Facilities from './pages/Facilities/Facilities'
 import Publications from './pages/Publications/Publications'
-import Events from './pages/Events/Events'
 import Teaching from './pages/Teaching/Teaching'
 
 function App() {
@@ -25,7 +24,6 @@ function App() {
           <Route path='/projects' element={<Projects />} />
           <Route path='/facilities' element={<Facilities />} />
           <Route path='/publications' element={<Publications />} />
-          <Route path='/events' element={<Events />} />
           <Route path='/teaching' element={<Teaching />} />
         </Routes>
       </div>

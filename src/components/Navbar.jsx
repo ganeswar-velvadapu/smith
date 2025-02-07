@@ -1,8 +1,13 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 const Navbar = () => {
     const [menu, setMenu] = useState(false);
+    const location = useLocation(); 
+
+    const isActiveLink = (path) => {
+        return location.pathname === path;
+    };
 
     return (
         <div className="flex justify-between items-center p-4 bg-white shadow-md h-[80px] w-full fixed top-0 z-100">
@@ -15,19 +20,17 @@ const Navbar = () => {
                     />
                 </a>
             </div>
-
-            <div className="hidden lg:flex justify-between gap-10 text-black">
-                <Link to="/">Home</Link>
-                <Link to="/people">People</Link>
-                <Link to="/news">News</Link>
-                <Link to="/opportunities">Opportunities</Link>
-                <Link to="/projects">Projects</Link>
-                <Link to="/facilities">Facilities</Link>
-                <Link to="/publications">Publications</Link>
-                <Link to="/events">Events</Link>
-                <Link to="/teaching">Teaching</Link>
-                <a href="https://msme.iith.ac.in/">IITH MSME</a>
-                <a href="https://www.iith.ac.in/">IITH</a>
+            <div className="hidden lg:flex justify-between gap-10 text-black lg:text-xl">
+                <Link to="/" className={isActiveLink('/') ? 'font-bold text-blue-600' : ''}>Home</Link>
+                <Link to="/people" className={isActiveLink('/people') ? 'font-bold text-blue-600' : ''}>People</Link>
+                <Link to="/news" className={isActiveLink('/news') ? 'font-bold text-blue-600' : ''}>News</Link>
+                <Link to="/opportunities" className={isActiveLink('/opportunities') ? 'font-bold text-blue-600' : ''}>Opportunities</Link>
+                <Link to="/projects" className={isActiveLink('/projects') ? 'font-bold text-blue-600' : ''}>Projects</Link>
+                <Link to="/facilities" className={isActiveLink('/facilities') ? 'font-bold text-blue-600' : ''}>Facilities</Link>
+                <Link to="/publications" className={isActiveLink('/publications') ? 'font-bold text-blue-600' : ''}>Publications</Link>
+                <Link to="/teaching" className={isActiveLink('/teaching') ? 'font-bold text-blue-600' : ''}>Teaching</Link>
+                <a href="https://msme.iith.ac.in/" className="hover:text-blue-600">IITH MSME</a>
+                <a href="https://www.iith.ac.in/" className="hover:text-blue-600">IITH</a>
             </div>
 
             <div className="lg:hidden flex justify-center items-center">
@@ -63,24 +66,25 @@ const Navbar = () => {
 
             {menu && (
                 <div className="absolute top-[80px] left-0 w-full bg-white shadow-lg">
-                    <div className="flex flex-col items-center gap-4 py-4 text-black">
-                        <Link to="/" onClick={() => setMenu(false)}>Home</Link>
-                        <Link to="/people" onClick={() => setMenu(false)}>People</Link>
-                        <Link to="/news" onClick={() => setMenu(false)}>News</Link>
-                        <Link to="/opportunities" onClick={() => setMenu(false)}>Opportunities</Link>
-                        <Link to="/projects" onClick={() => setMenu(false)}>Projects</Link>
-                        <Link to="/facilities" onClick={() => setMenu(false)}>Facilities</Link>
-                        <Link to="/publications" onClick={() => setMenu(false)}>Publications</Link>
-                        <Link to="/events" onClick={() => setMenu(false)}>Events</Link>
-                        <Link to="/teaching" onClick={() => setMenu(false)}>Teaching</Link>
+                    <div className="flex flex-col items-center gap-4 py-4 text-black text-xl">
+                        <Link to="/" onClick={() => setMenu(false)} className={isActiveLink('/') ? 'font-bold text-blue-600' : ''}>Home</Link>
+                        <Link to="/people" onClick={() => setMenu(false)} className={isActiveLink('/people') ? 'font-bold text-blue-600' : ''}>People</Link>
+                        <Link to="/news" onClick={() => setMenu(false)} className={isActiveLink('/news') ? 'font-bold text-blue-600' : ''}>News</Link>
+                        <Link to="/opportunities" onClick={() => setMenu(false)} className={isActiveLink('/opportunities') ? 'font-bold text-blue-600' : ''}>Opportunities</Link>
+                        <Link to="/projects" onClick={() => setMenu(false)} className={isActiveLink('/projects') ? 'font-bold text-blue-600' : ''}>Projects</Link>
+                        <Link to="/facilities" onClick={() => setMenu(false)} className={isActiveLink('/facilities') ? 'font-bold text-blue-600' : ''}>Facilities</Link>
+                        <Link to="/publications" onClick={() => setMenu(false)} className={isActiveLink('/publications') ? 'font-bold text-blue-600' : ''}>Publications</Link>
+                        <Link to="/teaching" onClick={() => setMenu(false)} className={isActiveLink('/teaching') ? 'font-bold text-blue-600' : ''}>Teaching</Link>
                         <a
                             href="https://msme.iith.ac.in/"
+                            className="hover:text-blue-600"
                             onClick={() => setMenu(false)}
                         >
                             IITH MSME
                         </a>
                         <a
                             href="https://www.iith.ac.in/"
+                            className="hover:text-blue-600"
                             onClick={() => setMenu(false)}
                         >
                             IITH
