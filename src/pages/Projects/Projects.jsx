@@ -13,7 +13,7 @@ const Projects = () => {
       {
         projectData.map((item) =>{
           return (
-            <ProjectContent title={item.title} role={item.role} fundingSource={item.fundingSource} value={item.value} duration={item.duration} sanctionNo={item.sanctionNo} key={item.id}/> 
+            <ProjectContent title={item.title} cost={item.cost} pi={item.pi} value={item.value} duration={item.duration} agency={item.agency} key={item.SNo}/> 
           )
         })
       }

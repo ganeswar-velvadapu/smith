@@ -1,38 +1,178 @@
 [
     {
-        "id" : "1",
-        "title" : "Immiscible refractory high-entropy alloys as a replacement for super-alloys",
-        "role" : "Principle Investigator",
-        "fundingSource" : "Directorate of Institution of Eminence Grants, UoH",
-        "value" : "Rs. 40 Lakhs",
-        "duration" : "3 Years (2021-2024)",
-        "sanctionNo" : "UoH-IoE-RC2-21-009"
+        "SNo": "1",
+        "title": "Characterization and pretreatment of silica and lime sludge from Alufluoride industry",
+        "cost": "32.0",
+        "duration": "3 years (ongoing)",
+        "pi": "PI",
+        "agency": "M/s. Aufluoride limited, Vishakapatnam"
     },
     {
-        "id" : "2",
-        "title" : "Immiscible refractory high-entropy alloys as a replacement for super-alloys",
-        "role" : "Principle Investigator",
-        "fundingSource" : "Directorate of Institution of Eminence Grants, UoH",
-        "value" : "Rs. 40 Lakhs",
-        "duration" : "3 Years (2021-2024)",
-        "sanctionNo" : "UoH-IoE-RC2-21-009"
+        "SNo": "2",
+        "title": "Investigation on coal-biomass blends as reductant and fuel in rotary kiln DRI making towards CO2 mitigation",
+        "cost": "161.44",
+        "duration": "2 years (ongoing)",
+        "pi": "Co-PI",
+        "agency": "Ministry of Steel supported by Jeevaka Steel Industries and Mineral Udyog"
     },
     {
-        "id" : "3",
-        "title" : "Immiscible refractory high-entropy alloys as a replacement for super-alloys",
-        "role" : "Principle Investigator",
-        "fundingSource" : "Directorate of Institution of Eminence Grants, UoH",
-        "value" : "Rs. 40 Lakhs",
-        "duration" : "3 Years (2021-2024)",
-        "sanctionNo" : "UoH-IoE-RC2-21-009"
+        "SNo": "3",
+        "title": "Investigation on Direct Reduction using Ammonia: A Novel Green Alternate Ironmaking Process",
+        "cost": "235.44",
+        "duration": "2 years (ongoing)",
+        "pi": "PI",
+        "agency": "Ministry of Steel supported by Greenko and Ants Innovation"
     },
     {
-        "id" : "4",
-        "title" : "Immiscible refractory high-entropy alloys as a replacement for super-alloys",
-        "role" : "Principle Investigator",
-        "fundingSource" : "Directorate of Institution of Eminence Grants, UoH",
-        "value" : "Rs. 40 Lakhs",
-        "duration" : "3 Years (2021-2024)",
-        "sanctionNo" : "UoH-IoE-RC2-21-009"
+        "SNo": "4",
+        "title": "Modeling and Simulation of hot metal desulphurization unit (S289)",
+        "cost": "13.80",
+        "duration": "3 years (ongoing)",
+        "pi": "PI",
+        "agency": "Jamipol Limited, Jamshedpur"
+    },
+    {
+        "SNo": "5",
+        "title": "Mineralogical and Microstructural studies on high alumina iron ore fines and their influence on pelletizing (S278)",
+        "cost": "30.94",
+        "duration": "1 year (ongoing)",
+        "pi": "PI",
+        "agency": "Tata Steel Ltd, Jamshedpur"
+    },
+    {
+        "SNo": "6",
+        "title": "Reductive/Direct Alloying Technique for Making Lightweight (low-density) Steel (SG120)",
+        "cost": "30",
+        "duration": "02 years",
+        "pi": "PI",
+        "agency": "Seed grant (IIT H) (Before joining IITH)"
+    },
+    {
+        "SNo": "7",
+        "title": "Development of hydrogen standard in steel (FTT 31 02)",
+        "cost": "14",
+        "duration": "01 year (completed)",
+        "pi": "PI",
+        "agency": "CSIR HQ (FTT Project)"
+    },
+    {
+        "SNo": "8",
+        "title": "Control and analysis of non-metallic inclusion in semi-finished electrical steel (OLP 256)",
+        "cost": "15",
+        "duration": "04 years (completed)",
+        "pi": "PI",
+        "agency": "CSIR-NML (In-house project)"
+    },
+    {
+        "SNo": "9",
+        "title": "Development and fabrication of cannon liners for explosive testing – (GAP 256)",
+        "cost": "56.38",
+        "duration": "2.5 years (ongoing)",
+        "pi": "PI #",
+        "agency": "CIMFR, Dhanbad"
+    },
+    {
+        "SNo": "10",
+        "title": "Dip mold simulator-based technique for qualification of mold powders for crack sensitive grade steels (CLP 201)",
+        "cost": "35",
+        "duration": "21 months (completed)",
+        "pi": "PI",
+        "agency": "Tata Steel Ltd, Jamshedpur"
+    },
+    {
+        "SNo": "11",
+        "title": "Scale up and commercialization of indigenously developed hydrogen standard in steel (FTC 31 04)",
+        "cost": "78.5",
+        "duration": "01 year (completed)",
+        "pi": "PI",
+        "agency": "CSIR HQ (FTC Project)"
+    },
+    {
+        "SNo": "12",
+        "title": "Reduction of energy consumption in iron ore sintering by modified coke breeze distribution (CLP)",
+        "cost": "28",
+        "duration": "01 year (completed)",
+        "pi": "Co-PI",
+        "agency": "Tata steel Ltd, Jamshedpur"
+    },
+    {
+        "SNo": "13",
+        "title": "Development of advance steels by thin strip casting and direct rolling (OLP)",
+        "cost": "10",
+        "duration": "01 year (completed)",
+        "pi": "Co-PI",
+        "agency": "CSIR-NML (In-house project)"
+    },
+    {
+        "SNo": "14",
+        "title": "Preparation and certification of hydrogen standard (CRM) in steel (OLP 370)",
+        "cost": "2.7",
+        "duration": "06 months (completed)",
+        "pi": "PI",
+        "agency": "CSIR-NML (In-house project)"
+    },
+    {
+        "SNo": "15",
+        "title": "Development of a Cost-Effective Refractory Lining Materials for Induction Melting Furnace Suitable for Production of Quality Steel: Phase II Industrial Trials (GAP 281)",
+        "cost": "68",
+        "duration": "18 months (ongoing)",
+        "pi": "Co-PI #",
+        "agency": "Ministry of Steel (NISST & CGCRI)"
+    },
+    {
+        "SNo": "16",
+        "title": "Development of CS analytical and Charpy Impact Specimen physical standard in steel",
+        "cost": "99.4",
+        "duration": "24 months (ongoing)",
+        "pi": "PI #",
+        "agency": "CSIR HQ (FTT Project)"
+    },
+    {
+        "SNo": "17",
+        "title": "Study on Mold flux-liquid steel interaction using lifting hearth furnace",
+        "cost": "7.5",
+        "duration": "6 months (ongoing)",
+        "pi": "PI #",
+        "agency": "Tata Steel Ltd, Jamshedpur"
+    },
+    {
+        "SNo": "18",
+        "title": "Study on dephosphorization of hot metal in induction furnace",
+        "cost": "5.4",
+        "duration": "6 months (completed)",
+        "pi": "PI",
+        "agency": "Tata Steel Ltd, Jamshedpur"
+    },
+    {
+        "SNo": "19",
+        "title": "Effect of processing parameters on cryo impact properties of cast alloys",
+        "cost": "30.12",
+        "duration": "24 months (ongoing)",
+        "pi": "Member",
+        "agency": "VSSC, Trivandrum"
+    },
+    {
+        "SNo": "20",
+        "title": "Amorphous Electrical Steel (AES) for Energy Application",
+        "cost": "3634",
+        "duration": "03 years (completed)",
+        "pi": "Member",
+        "agency": "Ministry of Steel, Govt. of India"
+    },
+    {
+        "SNo": "21",
+        "title": "Identifying causes for crack development in billets and rounds during hot rolling at VSP",
+        "cost": "40",
+        "duration": "01 year (completed)",
+        "pi": "Member",
+        "agency": "RINL, Vizhakapatnam"
+    },
+    {
+        "SNo": "22",
+        "title": "Investigation on hydrogen trapping characteristics of precipitate/matrix interfaces in micro-alloyed steel",
+        "cost": "43",
+        "duration": "01 year (completed)",
+        "pi": "Member",
+        "agency": "Tata Steel Ltd, Jamshedpur"
     }
 ]
