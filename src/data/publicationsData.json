@@ -1,292 +1,343 @@
 [
     {
         "id": "1",
+        "publicationName": "Analysis of Vortex Stability During the BOF Tapping Process",
+        "authors": "P Kakara Sripushpa, Usha Yenni, Syed Furqan Bukhari Murugaiyan",
+        "correspondingAuthor": "Ashok Kamaraj",
+        "organisation": "Materials and Metallurgical Transactions B",
+        "Vol": "Vol. 53B, p. 1989-2003",
+        "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "year": "2024",
+        "link" : "https://link.springer.com/article/10.1007/s11663-024-03221-z"
+    },
+    {
+        "id": "2",
+        "publicationName": "Influence of Tensile Stress Annealing on Soft Magnetic and Core Loss Properties of Nanocrystalline Fe83Si2B9P4Nb1Cu1 Alloy",
+        "authors": "Premkumar Murugaiyan, Amitava Mitra, Somnath Das, Ashok Kamaraj, Rajat K. Roy & Ashis K. Panda",
+        "correspondingAuthor": "Ashok Kamaraj",
+        "organisation": "Journal of Superconductivity and Novel Magnetism",
+        "Vol": "Vol. 266 112672",
+        "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "year": "2024",
+        "link" : "https://link.springer.com/article/10.1007/s10948-024-06789-4"
+    },
+    {
+        "id": "3",
         "publicationName": "A novel approach for the efficient recovery of lead from End-of-Life Silicon Photovoltaic modules",
         "authors": "D.S. Prasad, P.P. Srinivasa Kumar, B. Sanjana, D. Sai Kiran, R. Ratheesh",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Solar Energy Materials and Solar Cells",
         "Vol": "Vol. 266 112672.",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2024"
+        "year": "2024",
+        "link" : "https://www.sciencedirect.com/science/article/pii/S0927024823004932"
     },
     {
-        "id": "2",
+        "id": "4",
         "publicationName": "Prediction of the shift in melting mode during additive manufacturing of 316L stainless steel",
         "authors": "Ansuman Dash",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Materials Today Communications",
         "Vol": "Vol .37 107238.",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2023"
+        "year": "2023",
+        "link" : "https://www.sciencedirect.com/science/article/pii/S2352492823019293?dgcid=rss_sd_all#:~:text=King%20et%20al.,AM%20process%20for%20316%20SS."
     },
     {
-        "id": "3",
+        "id": "5",
         "publicationName": "Fabrication of functionally graded material via gas tungsten arc welding based wire feeding additive manufacturing: Mechanical and microstructural characterization",
         "authors": "D Veeman, M Alruqi, M K Subramaniyan, S S Nallathambi, M A Browne",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Materials Letters",
         "Vol": "13278.",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2022"
+        "year": "2022",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0167577X22011399?via%3Dihub"
     },
     {
-        "id": "4",
+        "id": "6",
         "publicationName": "The Role of Slag Carryover on the Non-metallic Inclusion Evolution and Magnetic Behavior in Electrical Steel",
         "authors": "P Murugaiyan, G K Mandal, G G Roy",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Materials and Metallurgical Transactions B",
         "Vol": "Vol. 53B, p. 1989-2003",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2022"
+        "year": "2022",
+        "link" : "https://link.springer.com/article/10.1007/s11663-022-02547-w"
     },
     {
-        "id": "5",
+        "id": "7",
         "publicationName": "Quantification and Analysis of Slag Carryover during Liquid Steel Tapping from BOF Vessel",
         "authors": "G K Mandal, S Shanmugam, G G Roy",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Canadian Metallurgical Quarterly",
         "Vol": "Vol. 61, 2, p. 202-215",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2022"
+        "year": "2022",
+        "link" : "https://www.tandfonline.com/doi/full/10.1080/00084433.2022.2044688"
     },
     {
-        "id": "6",
+        "id": "8",
         "publicationName": "Characterization and Assessment of Mold Flux for Continuous Casting of Liquid Steel using an Inverse Mold Simulator",
         "authors": "S. Tripathy, G. Chalavadi, P. P. Sahoo, S. Misra",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Steel Research International",
         "Vol": "Vol. 93, 3, p. 2100121",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2022"
+        "year": "2022",
+        "link" : "https://onlinelibrary.wiley.com/doi/abs/10.1002/srin.202100121"
     },
     {
-        "id": "7",
+        "id": "9",
         "publicationName": "Role of Synthetic Slag Treatment on the Morphology of Non-Metallic Inclusions and Subsequent Cold Drawability of the High Carbon Wire Rod Steel",
         "authors": "Alok Srivastava, D Mandal, K Mandal, G. K. Mandal",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Metals and Materials International",
         "Vol": "Vol. 28, pp. 1763-1777",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2022"
+        "year": "2022",
+        "link" : "https://link.springer.com/article/10.1007/s12540-021-01060-0"
     },
     {
-        "id": "8",
+        "id": "10",
         "publicationName": "A comparative study on environmental impact analysis of synthetic and ESR flux used for refining of steel",
         "authors": "Rohit B Meshram",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Procedia CIRP",
         "Vol": "Vol. 98, p. 448-451",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2021"
+        "year": "2021",
+        "link" : "https://www.sciencedirect.com/science/article/pii/S2212827121001621?via%3Dihub"
     },
     {
-        "id": "9",
+        "id": "11",
         "publicationName": "Investigation on Mould Flux Melting and Consumption during Continuous Casting of Liquid Steels",
         "authors": "Ansuman Dash, Premkumar M, Siddhartha Misra",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Materials and Metallurgical Transactions B",
         "Vol": "Vol. 51B, p. 2159-2170",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2020"
+        "year": "2020",
+        "link" : "https://link.springer.com/article/10.1007/s11663-020-01906-9"
     },
     {
-        "id": "10",
+        "id": "12",
         "publicationName": "High Temperature simulation of continuous casting mould phenomena",
         "authors": "N. Haldar, Premkumar M, and S. Misra",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Transaction of Indian Institute of Metals",
         "Vol": "Vol. 73, 8 (2020) p. 2025-2031",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2020"
+        "year": "2020",
+        "link" : "https://link.springer.com/article/10.1007/s12666-020-01919-7"
     },
     {
-        "id": "11",
+        "id": "13",
         "publicationName": "Thermodynamic Assessment of Steelmaking Practices for the Production of Re-sulfur Steels",
         "authors": "Prithiv T. S, Thirumurugan G, Madan M",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Transaction of Indian Institute of Metals",
         "Vol": "Vol. 73, 6 (2020) p. 1595-1603",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2020"
+        "year": "2020",
+        "link": "https://link.springer.com/article/10.1007/s12666-020-01941-9"
     },
     {
-        "id": "12",
+        "id": "14",
         "publicationName": "Development of speciality grade wire by controlling the inclusions in high carbon steel using synthetic slag treatment",
         "authors": "M. M. Humane, R. K. Minj, S. K. Das, R. B. V Ramana and T. Venugopalan",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Transaction of Indian Institute of Metals",
         "Vol": "Vol. 72, 2 (2019) p. 369-381",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2019"
+        "year": "2019",
+        "link" : "https://link.springer.com/article/10.1007/s12666-018-1488-4"
     },
     {
-        "id": "13",
+        "id": "15",
         "publicationName": "Control of Slag Carryover from BOF Vessel during Tapping: BOF Cold Model Studies",
         "authors": "G.K. Mandal, G G Roy",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Materials and Metallurgical Transactions B",
         "Vol": "Vol. 50B, p. 438-458",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2019"
+        "year": "2019",
+        "link" : "https://link.springer.com/article/10.1007/s11663-018-1432-3"
     },
     {
-        "id": "14",
+        "id": "16",
         "publicationName": "Role of precipitates in recrystallization mechanisms of Nb-Mo micro-alloyed steel",
         "authors": "Gopi K. Mandal, Siddhartha S. Das, Tipu Kumar, K. Mondal, V. C. Srivastava",
         "correspondingAuthor": "Ashok K",
         "organisation": "Journal of Materials Engineering and Performance",
         "Vol": "Vol. 27(12), p. 6748-6757",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2018"
+        "year": "2018",
+        "link" : "https://link.springer.com/article/10.1007/s11665-018-3711-1"
     },
     {
-        "id": "15",
+        "id": "17",
         "publicationName": "Development of stretch flangeable grade steels by Inclusion Engineering Approach",
         "authors": "G. K. Mandal, S. K. Das, P. Biswas, R. B. Sarkar, Sundara Bharathy R, V.C. Srivastava",
         "correspondingAuthor": "Ashok K",
         "organisation": "Journal of Materials Engineering and Performance",
         "Vol": "Vol. 27(11), p. 5622-5634",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2018"
+        "year": "2018",
+        "link" : "https://link.springer.com/article/10.1007/s11665-018-3703-1"
     },
     {
-        "id": "16",
+        "id": "18",
         "publicationName": "On the Intercritical Annealing Parameters and Ensuing Mechanical Properties of Low-Carbon Medium-Mn Steel",
         "authors": "Gaurav K. Bansal, D.A. Madhukar, A.K. Chandan, K. Ashok, G.K. Mandal, V.C. Srivastsava",
         "correspondingAuthor": "Ashok K",
         "organisation": "Materials Science and Engineering A",
         "Vol": "Vol. 733 (2018) p 246-256",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2018"
+        "year": "2018",
+        "link" : "https://www.sciencedirect.com/science/article/pii/S0921509318309808"
     },
     {
-        "id": "17",
+        "id": "19",
         "publicationName": "Investigation on Causes of Defect Formation during Hot Rolling of Steel Blooms",
         "authors": "Gopi K Mandal, A P Murugesan, P Anil Kumar, Vikas C Srivastava and Manoj M Humane",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Steel Tech",
         "Vol": "Vol. 12 No 4 (2018) p. 42-50",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2018"
+        "year": "2018",
+        "link" : "https://www.researchgate.net/publication/328529219_Investigation_on_Causes_of_Defect_Formation_during_Hot_Rolling_of_Steel_Blooms"
     },
     {
-        "id": "18",
+        "id": "20",
         "publicationName": "State of the Art Control Measures for Aluminium Fade and SEN Clogging during Steelmaking Operations",
         "authors": "R Saravanakumar and M Rajaguru",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "IOP Conference Series: Materials Science and Engineering",
         "Vol": "Vol. 314 (2018) p. 012022",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2018"
+        "year": "2018",
+        "link" : "https://iopscience.iop.org/article/10.1088/1757-899X/314/1/012022"
     },
     {
-        "id": "19",
+        "id": "21",
         "publicationName": "Microbiological corrosion of ASTM SA105 carbon steel pipe for industrial fire water usage",
         "authors": "S Chidambaram, V Karthik and P G Venkatakrishnan",
         "correspondingAuthor": "Ashok K",
         "organisation": "IOP Conference Series: Materials Science and Engineering",
         "Vol": "Vol. 314 (2018) p. 012027",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2018"
+        "year": "2018",
+        "link": "https://iopscience.iop.org/article/10.1088/1757-899X/314/1/012027"
     },
     {
-        "id": "20",
+        "id": "22",
         "publicationName": "Shear Fracture and Industrial Overload Failure of Mechanical Fuse Shear Pin",
         "authors": "S Chidambaram, R Saravana Kumar and V Karthik",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "IOP Conference Series: Materials Science and Engineering",
         "Vol": "Vol. 377 (2018) p. 012004",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2018"
+        "year": "2018",
+        "link" : "https://iopscience.iop.org/article/10.1088/1757-899X/377/1/012004"
     },
     {
-        "id": "21",
+        "id": "23",
         "publicationName": "Process evaluation of AOD stainless steel making in Salem Steel Plant, SAIL",
         "authors": "Sankar P, Maruthupandian K",
         "correspondingAuthor": "Ashok K",
         "organisation": "Journal of Metallurgy and Materials Science",
         "Vol": "Vol. 59, No. 4, October-December 2017, p. 173-180",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2017"
+        "year": "2017",
+        "link" : "https://eprints.nmlindia.org/7859/"
     },
     {
-        "id": "22",
+        "id": "24",
         "publicationName": "Characterization and Evolution of Non-metallic Inclusions in Fe\u2013Al\u2013Si\u2013O System",
         "authors": "G K Mandal, R K Minj, S Misra, D Bandyopadhyay",
         "correspondingAuthor": "Ashok K",
         "organisation": "Transaction of Indian Institute of Metals",
         "Vol": "Vol. 70 7 (2017) p. 1887-1899",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2017"
+        "year": "2017",
+        "link" : "https://link.springer.com/article/10.1007/s12666-016-0997-2"
     },
     {
-        "id": "23",
+        "id": "25",
         "publicationName": "Experimental investigation on microstructure and mechanical properties of gravity-die-cast magnesium alloys",
         "authors": "Palash Poddar, Sumanta Bagui, A P Murugesan",
         "correspondingAuthor": "Ashok K",
         "organisation": "Journal of Alloys and Compounds",
         "Vol": "Vol. 695, (2017) p. 895 \u2013 908",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2017"
+        "year": "2017",
+        "link" : "https://www.sciencedirect.com/science/article/pii/S0925838816333278"
     },
     {
-        "id": "24",
+        "id": "26",
         "publicationName": "Estimation and analysis of excess oxygen input into ladle during liquid steel tapping",
         "authors": "S Hore, G G Roy, G K Mandal",
         "correspondingAuthor": "Ashok K",
         "organisation": "Transaction of Indian Institute of Metals",
         "Vol": "Vol. 70 9 (2017) pp 2465-2476",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2017"
+        "year": "2017",
+        "link" : "https://link.springer.com/article/10.1007/s12666-017-1108-8"
     },
     {
-        "id": "25",
+        "id": "27",
         "publicationName": "Microstructural features of Mg-8%Sn alloy and its correlation with mechanical properties",
         "authors": "P Poddar, A P Murugesan, S Bagui, K L Sahoo",
         "correspondingAuthor": "Ashok K",
         "organisation": "International Journal of Magnesium and Alloys",
         "Vol": "Vol 5 3 (2017) p. 348-354",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2017"
+        "year": "2017",
+        "link" : "https://www.sciencedirect.com/science/article/pii/S2213956717300385"
     },
     {
-        "id": "26",
+        "id": "28",
         "publicationName": "Failure investigation of an industrial crankshaft made of ductile iron",
         "authors": "S Chidambaram",
         "correspondingAuthor": "Ashok Kamaraj",
         "organisation": "Advances in Natural and Applied Sciences",
         "Vol": "Vol 11 (8), p. 25-30",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2017"
+        "year": "2017",
+        "link" : "https://www.researchgate.net/publication/317638599_Failure_investigation_of_an_industrial_crankshaft_made_of_ductile_iron"
     },
     {
-        "id": "27",
+        "id": "29",
         "publicationName": "Theoretical Investigation on Deoxidation of Liquid Steel for Fe-Al-Si-O System",
         "authors": "G K Mandal, D Bandyopadhyay",
         "correspondingAuthor": "Ashok K",
         "organisation": "Transaction of Indian Institute of Metals",
         "Vol": "Vol. 68 (2015) sp - 1, p. 9-18",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2015"
+        "year": "2015",
+        "link" : "https://link.springer.com/article/10.1007/s12666-015-0574-0"
     },
     {
-        "id": "28",
+        "id": "30",
         "publicationName": "Micro-mechanical behaviour of AA2014 Alloy during Hot Tensile Testing",
         "authors": "K Maruthupandian, K Ganesh Kumar, S Vishal",
         "correspondingAuthor": "Ashok K",
         "organisation": "Transaction of Indian Institute of Metals",
         "Vol": "Vol. 68 (2015) sp - 1, p. 19-24",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2015"
+        "year": "2015",
+        "link" : "https://link.springer.com/article/10.1007/s12666-015-0580-2"
     },
     {
-        "id": "29",
+        "id": "31",
         "publicationName": "Effect of Steel Making Slag on Castability of Medium Carbon Re-sulphur Steel Grades",
         "authors": "Venkatesan J, P G Venkatakrishnan",
         "correspondingAuthor": "Ashok K",
         "organisation": "Advanced Materials Research",
         "Vol": "Vol. 585 (2012) p. 364-368",
         "imgUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
-        "year": "2012"
+        "year": "2012",
+        "link" : "https://www.scientific.net/AMR.585.364"
     }
 ]

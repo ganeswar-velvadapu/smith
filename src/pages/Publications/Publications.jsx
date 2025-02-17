@@ -5,6 +5,7 @@ import publicationsData from '../../data/publicationsData.json';
 import navBottom from '../../../src/assets/navbarBottomImages/navbarBottomImage.jpg';
 
 const Publications = () => {
+
   const [year, setYear] = useState(''); 
 
   const filteredPublications = year
@@ -35,6 +36,7 @@ const Publications = () => {
               Vol={item.Vol}
               imgUrl={item.imgUrl}
               year={item.year}
+              link= {item.link}
             />
           ))
         ) : (

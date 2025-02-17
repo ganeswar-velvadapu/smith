@@ -9,9 +9,10 @@ const PublicationsContent = ({
   Vol,
   imgUrl,
   year,
+  link
 }) => {
   return (
-    <div className="flex flex-col p-4 md:flex-row items-center border mb-4 rounded-lg">
+    <div className="flex flex-col p-4 md:flex-row items-center border mb-4 rounded-lg" >
       <div className="image p-4 flex-shrink-0"> 
         <img
           src={imgUrl}
@@ -21,7 +22,7 @@ const PublicationsContent = ({
       </div>
       <div className="content flex-grow"> 
         {publicationName && (
-          <a href="#" className="text-2xl font-bold">
+          <a href={link} className="text-2xl font-bold">
             {publicationName}
           </a>
         )}
